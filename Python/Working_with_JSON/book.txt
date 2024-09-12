@@ -1,0 +1,1 @@
+{"Shweta": {"name": "Shweta", "address": "street 1 Latur", "phone": 98946738}, "Ashutosh": {"name": "Ashutosh", "address": "street 2 Baramati", "phone": 978394043}}

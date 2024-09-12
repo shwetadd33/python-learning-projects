@@ -1,0 +1,17 @@
+"""Handling multiple exception"""
+
+x=input("Enter a number1: ")
+y=input("Enter a number2: ")
+
+try:
+    z = int(x)/int(y)
+
+except ZeroDivisionError as e:
+    print("Division by zero exception.")
+    z = None
+except TypeError as e:
+    print("Type error exception.")
+    z = None
+print("Division is: ", z)
+
+

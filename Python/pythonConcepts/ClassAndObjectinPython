@@ -1,0 +1,8 @@
+Class: Human > Properties(Name,gender,occupation) > Method(Speak,Do work, Sleep)
+
+properties and methods forms central entity called Class.
+Class is abstraction of some entity which contains common set of properties and methods:
+
+
+Object: Object is an instance of a Class
+

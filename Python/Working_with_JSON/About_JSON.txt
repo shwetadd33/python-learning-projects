@@ -1,0 +1,3 @@
+JSON = Java Script Object Notation
+
+JSON is a data exchange format similar to XML
