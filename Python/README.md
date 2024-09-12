@@ -15,7 +15,7 @@ To run the Python scripts in this repository, you'll need to have Python install
 To get started, clone the repository using the following command:
 
 ```bash
-git clone https://github.com/yourusername/python-learning-projects.git
+git clone https://github.com/shwetadd33/python-learning-projects.git
 cd python-learning-projects
 ```
 
