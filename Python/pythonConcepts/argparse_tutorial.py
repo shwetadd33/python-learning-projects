@@ -2,7 +2,7 @@
 command line arguments -
 
 1. Positional args : all the arguments must be passed through command line i.e. all the args are mandatory
-2. Operational args: if want to skip some args , use optional args . just use -- before the arguments
+2. Operational args: if want to skip some args , use optional args. And just use -- before the arguments
 """
 
 import argparse
@@ -22,13 +22,14 @@ if __name__ == "__main__":
 
     n1 = int(args.num1)
     n2 = int(args.num2)
+    n3 = int(args.num3)
     result = None
 
     if args.operation == "add":
-        result = n1+n2
+        result = n1+n2+n3
     elif args.operation == "subtract":
         result = n1-n2
     elif args.operation == "multiply":
-        result = n1*n2
+        result = n1*n2*n3
 
     print("Result:",result)
