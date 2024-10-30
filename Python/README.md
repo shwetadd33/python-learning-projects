@@ -35,7 +35,8 @@ Here is a brief overview of some key concepts covered by the scripts in this rep
 * Lists and Dictionaries: Work with Python’s built-in data structures for managing collections of data.
 * File Handling: Learn to read from and write to files, handling data in different formats.
 * Error Handling: Basics of try-except blocks for managing exceptions and errors.
-* Multithreading and Multiprocessing
+* Multithreading and Multiprocessing.
+* Generators and Decorators.
 
 
 ### 🌟 Highlights
